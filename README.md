@@ -204,8 +204,10 @@ Fecha: Noviembre 2025
 ## 📹 Video Explicativo
 
 En el repositorio del ejercicio se encuentra adjunto el video explicativo, en el que se describe como este programa funciona de manera detallada.
+
 ---
 
 ## 📄 Licencia
 
-Este proyecto es de uso educativo, parte de una actividad presentada para el curso de DevSenior.
+Este proyecto es de uso educativo, parte de una actividad presentada para el curso de DevSenior: Python Senior AI.
+
